@@ -1,13 +1,8 @@
 <scheme name="Sublime Text 2" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
-  <metaInfo>
-    <property name="modified">2017-04-20T17:29:51</property>
-    <property name="rainbow Default language">true</property>
-  </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -39,7 +34,7 @@
     <option name="SELECTION_BACKGROUND" value="cc9900" />
     <option name="SELECTION_FOREGROUND" value="404040" />
     <option name="TEARLINE_COLOR" value="5b5a4e" />
-    <option name="WHITESPACES" value="1f9c34" />
+    <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -60,18 +55,6 @@
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="ff0000" />
-      </value>
-    </option>
-    <option name="BASH.INTERNAL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="4096ff" />
-      </value>
-    </option>
-    <option name="BASH.REDIRECTION">
-      <value>
-        <option name="FOREGROUND" value="d2d2d2" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -459,12 +442,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GROOVY_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="ff" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="287bde" />
@@ -603,37 +580,6 @@
       <value>
         <option name="FOREGROUND" value="a7ec21" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="PY.STRING.U">
-      <value>
-        <option name="FOREGROUND" value="c6c6" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR0">
-      <value>
-        <option name="FOREGROUND" value="d7469b" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR1">
-      <value>
-        <option name="FOREGROUND" value="1897d7" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR2">
-      <value>
-        <option name="FOREGROUND" value="d79f52" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR3">
-      <value>
-        <option name="FOREGROUND" value="d726" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR4">
-      <value>
-        <option name="FOREGROUND" value="d7379a" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
