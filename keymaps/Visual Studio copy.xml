@@ -2,6 +2,10 @@
   <action id="AddToFavoritesPopup" />
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -11,11 +15,22 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorSelectWord" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift alt f7" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="GotoNextError" />
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -27,6 +42,10 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
 </keymap>
