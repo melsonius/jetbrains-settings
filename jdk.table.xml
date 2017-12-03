@@ -1,21 +1,22 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 3.5.2 virtualenv at ~/numer.ai.virtenv" />
+      <name value="Python 3.6.1 virtualenv at C:\Users\mmels\numer.ai.virtenv" />
       <type value="Python SDK" />
-      <version value="Python 3.5.2" />
-      <homePath value="$USER_HOME$/numer.ai.virtenv/bin/python" />
+      <version value="Python 3.6.1" />
+      <homePath value="C:\Users\mmels\numer.ai.virtenv\Scripts\python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/numer.ai.virtenv/lib/python3.5" />
-            <root type="simple" url="file://$USER_HOME$/numer.ai.virtenv/lib/python3.5/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file://$USER_HOME$/numer.ai.virtenv/lib/python3.5/lib-dynload" />
-            <root type="simple" url="file:///usr/lib/python3.5" />
-            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file://$USER_HOME$/numer.ai.virtenv/lib/python3.5/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/1627065633" />
+            <root type="simple" url="file://$USER_HOME$/numer.ai.virtenv/Lib" />
+            <root type="simple" url="file://$USER_HOME$/numer.ai.virtenv/Scripts" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/numer.ai.virtenv" />
+            <root type="simple" url="file://$USER_HOME$/numer.ai.virtenv/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1894830407" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
@@ -29,69 +30,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/git/numer.ai" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.12 (/usr/bin/python2.7)" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.12" />
-      <homePath value="/usr/bin/python2.7" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file:///usr/lib/python2.7" />
-            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages" />
-            <root type="simple" url="file:///usr/lib/python2.7/dist-packages" />
-            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
-            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-1247972723" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.5.2 virtualenv at ~/poloniex-status-venv" />
-      <type value="Python SDK" />
-      <version value="Python 3.5.2" />
-      <homePath value="$USER_HOME$/poloniex-status-venv/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/poloniex-status-venv/lib/python3.5" />
-            <root type="simple" url="file://$USER_HOME$/poloniex-status-venv/lib/python3.5/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file://$USER_HOME$/poloniex-status-venv/lib/python3.5/lib-dynload" />
-            <root type="simple" url="file:///usr/lib/python3.5" />
-            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
-            <root type="simple" url="file://$USER_HOME$/poloniex-status-venv/lib/python3.5/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/1576051641" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/poloniex-status" />
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/numer.ai" />
     </jdk>
   </component>
 </application>

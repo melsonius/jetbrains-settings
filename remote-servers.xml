@@ -1,0 +1,7 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Heroku" type="heroku">
+      <configuration email="mmelson@alum.wpi.edu" password="Fi4W2D26q&amp;#33&amp;%g!GXkC^6vd0KQK3E9" />
+    </remote-server>
+  </component>
+</application>
