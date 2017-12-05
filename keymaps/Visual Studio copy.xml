@@ -39,6 +39,13 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="OpenFile" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl p" />
