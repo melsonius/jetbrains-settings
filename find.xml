@@ -14,6 +14,9 @@
       <mask>*.xml</mask>
       <mask>*.sql</mask>
       <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
