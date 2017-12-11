@@ -78,6 +78,8 @@
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f6" />
   </action>
-  <action id="XDebugger.EditWatch" />
+  <action id="WelcomeScreen.EditGroup">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="XDebugger.SetValue" />
 </keymap>
