@@ -14,9 +14,6 @@
       <mask>*.xml</mask>
       <mask>*.sql</mask>
       <mask>*.java</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
