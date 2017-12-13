@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="docker*yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,6 +15,17 @@
       <mask>*.xml</mask>
       <mask>*.sql</mask>
       <mask>*.java</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>c</mask>
+      <mask>d</mask>
+      <mask>doc</mask>
+      <mask>docker</mask>
+      <mask>docker*</mask>
+      <mask>docker*y</mask>
+      <mask>docker*ym</mask>
+      <mask>docker*yml</mask>
     </recentFileMasks>
   </component>
 </application>
