@@ -13,10 +13,6 @@
       <mask>*.mxml</mask>
       <mask>*.xml</mask>
       <mask>*.sql</mask>
-      <mask>*.java</mask>
-      <mask>*.y</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>c</mask>
       <mask>d</mask>
       <mask>doc</mask>
@@ -25,6 +21,18 @@
       <mask>docker*y</mask>
       <mask>docker*ym</mask>
       <mask>docker*yml</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>.java</mask>
+      <mask>K.java</mask>
+      <mask>Kaf.java</mask>
+      <mask>Kafka.java</mask>
+      <mask>Kafka*.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
